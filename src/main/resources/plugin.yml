@@ -1,0 +1,9 @@
+name: Practice
+version: ${project.version}
+main: whitelauncher.practice.Practice
+api-version: 1.15.2
+prefix: Practice
+authors: [WhiteTeamDev, Loulou30140]
+description: Practice of White Server
+website: whitelauncher.tk
+
