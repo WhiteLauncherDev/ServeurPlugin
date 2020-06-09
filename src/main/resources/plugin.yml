@@ -1,9 +1,13 @@
 name: Practice
 version: ${project.version}
-main: whitelauncher.practice.Practice
+main: tk.whitelauncher.practice.Practice
 api-version: 1.15.2
-prefix: Practice
-authors: [WhiteTeamDev, Loulou30140]
-description: Practice of White Server
+authors: [Loulou30140]
 website: whitelauncher.tk
-
+commands:
+  help:
+    description: Submit help command
+    aliases: [aide, ?]
+  duel:
+    description: Duel command
+    aliases: [d, defi]
